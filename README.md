@@ -10,5 +10,12 @@ Run this one-liner to automagically fix:
 $ wget -q https://raw.githubusercontent.com/erichnascimento/fix-chrome-window-group-gnome-shell/master/fix-chrome-window-group-gnome-shell.sh -O - | sh
 ```
 
+If permission denied, use sudo:
+
+```bash
+$ wget -q https://raw.githubusercontent.com/erichnascimento/fix-chrome-window-group-gnome-shell/master/fix-chrome-window-group-gnome-shell.sh -O - | sudo sh
+```
+
 Restart your Chrome and ... :)
+
 
