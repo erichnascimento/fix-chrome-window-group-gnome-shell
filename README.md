@@ -7,6 +7,8 @@
 Run this one-liner to automagically fix:
 
 ```bash
-$ wget https://raw.githubusercontent.com/erichnascimento/fix-chrome-window-group-gnome-shell/master/fix-chrome-window-group-gnome-shell.sh -O - | sh
+$ wget -q https://raw.githubusercontent.com/erichnascimento/fix-chrome-window-group-gnome-shell/master/fix-chrome-window-group-gnome-shell.sh -O - | sh
 ```
+
+Restart your Chrome and ... :)
 
